@@ -24,16 +24,6 @@
             "Access\\Scope\\Tests\\": "tests/"
         }
     },
-    "repositories": {
-        "collection.base": {
-            "type": "vcs",
-            "url": "git@github.com:beta-eto-code/collection.base.git"
-        },
-        "model.base": {
-            "type": "vcs",
-            "url": "git@github.com:beta-eto-code/model.base.git"
-        }
-    },
     "scripts": {
         "test": "phpunit"
     }
